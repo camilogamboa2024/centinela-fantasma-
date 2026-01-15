@@ -1,4 +1,4 @@
-# Centinela & Fantasma — Herramientas Bash para vigilancia de red y privacidad
+# Centinela & Fantasma —  vigilancia de red y privacidad
 
 Este repositorio contiene **dos scripts Bash** que te ayudan a mejorar la seguridad en redes locales y tu privacidad al conectarte a redes inseguras. Están pensados para sistemas GNU/Linux basados en Debian (Parrot OS, Kali, Ubuntu, etc.), aunque pueden adaptarse a otros entornos que dispongan de `iproute2`, `ping`, `systemd`, `ufw` y `macchanger`.
 
