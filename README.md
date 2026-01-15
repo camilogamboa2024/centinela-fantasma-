@@ -55,7 +55,7 @@ sudo apt install -y iproute2 iputils-ping network-manager ufw macchanger
 1. **Clonar o copiar** este repositorio:
 
    ```bash
-   git clone <URL_DEL_REPO>
+  https://github.com/camilogamboa2024/centinela-fantasma-
    cd centinela-fantasma
    ```
 
